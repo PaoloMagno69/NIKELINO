@@ -6,8 +6,7 @@
 		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "In principio era Nikelino e Nikelino era il principio. 
-		Paolo Magno accese la prima luce e decise di donarla al mondo e a tutte le donne e agli uomini che lo abitavano.",
+		"startIntroPart1": "In principio era Nikelino e Nikelino era il principio. Paolo Magno accese la prima luce e decise di donarla al mondo e a tutte le donne e agli uomini che lo abitavano.",
         "startIntroPart2": "Guida il tuo popolo verso la gloria sotto il segno delle sette stelle dell'Orsa Maggiore!",
 		
 		"declaringWar": "Noi siamo Nikelino. Preparatevi a essere assimilati, la resistenza è inutile",
