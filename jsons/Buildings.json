@@ -20,5 +20,27 @@
 		"happiness": 7,
 		"maintenance": 10,
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Tempio di Agnese Maria",
+		"replaces": "Circus Maximus",
+		"uniqueTo": "Shardana",
+		"cost": 480,
+		"happiness": 12,
+		"culture": 12,
+		"science": 12,
+		"maintenance": 10,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Colosseum",
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Tempio dei draghi",
+		"replaces": "Circus",
+		"uniqueTo": "Shardana",
+		"cost": 80,
+		"happiness": 7,
+		"maintenance": 10,
+		"requiredTech": "Engineering"
 	}
 ]
