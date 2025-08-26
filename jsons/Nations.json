@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Nikelino",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"adjective": ["nikelinese"],
+		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
