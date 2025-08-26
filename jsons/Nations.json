@@ -42,8 +42,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 
-        "startIntroPart1": "Un’isola forgiata dal fuoco e dal vento, terra dei Giganti di pietra, dei guerrieri senza paura, dei custodi dei nuraghe. 
-		I Shardana, signori delle onde, invincibili sotto l’elmo cornuto.",
+        "startIntroPart1": "Un’isola forgiata dal fuoco e dal vento, terra dei Giganti di pietra, dei guerrieri senza paura, dei custodi dei nuraghe. I Shardana, signori delle onde, invincibili sotto l’elmo cornuto.",
         "startIntroPart2": "Nora, madre dei draghi e signora di tutti i viventi, raduna le genti, difendi i nuraghe, sfida i nemici venuti da terre lontane. 
 		La Sardegna ti chiama. Onora il mare. Onora la pietra. Onora il tuo destino!",
 		
@@ -76,6 +75,6 @@
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
             "[+1] Sight <for [Embarked] units>",  "[+10]% Strength <within [2] tiles of a [Moai]>"],
-		"cities": ["Cunnu de Nora","Barumini","Nuraghe Arrubiu","Terraseo","Samatzai","Nuraminis","Monte Prama","Tiscali""]
+		"cities": ["Cunnu de Nora","Barumini","Nuraghe Arrubiu","Terraseo","Samatzai","Nuraminis","Monte Prama","Tiscali"]
 		}
 		]
