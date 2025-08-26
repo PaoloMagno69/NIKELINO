@@ -18,7 +18,7 @@
 		"uniqueTo": "Nikelino",
 		"cost": 80,
 		"happiness": 7,
-		"maintenance": 10,
+		"maintenance": 2,
 		"requiredTech": "Engineering"
 	},
 	{
@@ -40,7 +40,7 @@
 		"uniqueTo": "Shardana",
 		"cost": 80,
 		"happiness": 7,
-		"maintenance": 10,
+		"maintenance": 2,
 		"requiredTech": "Engineering"
 	}
 ]
