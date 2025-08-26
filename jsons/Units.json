@@ -33,7 +33,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Maori Warrior",
+		"name": "Guerriero sardo",
 		"unitType": "Sword",
 		"uniqueTo": "Polynesia",
 		"replaces": "Warrior",
