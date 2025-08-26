@@ -37,11 +37,53 @@
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
-		"strength": 8,
-		"cost": 20,
+		"strength": 6,
+		"cost": 30,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Oplite siracusano",
+		"unitType": "Sword",
+		"uniqueTo": "Nikelino",
+		"movement": 2,
+		"strength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Guerriero Taurino",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Nikelino",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"promotions": ["Pictish Courage"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Germanico assimilato",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Nikelino",
+		"movement": 2,
+		"strength": 10,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Guerriero sardo",
@@ -56,4 +98,5 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
+	/* Classical Era */
 ]
