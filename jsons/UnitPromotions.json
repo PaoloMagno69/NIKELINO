@@ -1,1 +1,5 @@
-
+[
+  {
+		"name": "Sangue di Drago", // only for Guerriero sardo and subsequent upgrades
+		"uniques": ["[-20]% Strength for enemy [Military] units in adjacent [All] tiles"]
+	},
