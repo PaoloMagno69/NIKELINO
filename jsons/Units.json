@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Ballista",
+		"name": "Ballista nikelinese",
 		"unitType": "Siege",
 		"replaces": "Catapult",
 		"uniqueTo": "Nikelino",
@@ -17,9 +17,9 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Legion",
+		"name": "Legionario di Paolo",
 		"unitType": "Sword",
-		"uniqueTo": "Rome",
+		"uniqueTo": "Nikelino",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 17,
@@ -33,9 +33,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Bruto assimilato",
+		"unitType": "Sword",
+		"uniqueTo": "Nikelino",
+		"movement": 2,
+		"strength": 8,
+		"cost": 20,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Guerriero sardo",
 		"unitType": "Sword",
-		"uniqueTo": "Polynesia",
+		"uniqueTo": "Shardana",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
