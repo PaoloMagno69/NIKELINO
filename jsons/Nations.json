@@ -1,15 +1,15 @@
 [
 	{
 		"name": "Nikelino",
-		"leaderName": "Zyxxyz",
+		"leaderName": "Paolo Magno",
 		"adjective": ["nikelinese"],
 		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "In principio era Nikelino e Nikelino era il principio. Paolo Magno accese la prima luce e decise di donarla al mondo e a tutte le donne e agli uomini che lo abitavano.",
+        "startIntroPart2": "Guida il tuo popolo verso la gloria sotto il segno di Nikelino!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "Noi siamo Nikelino. Preparatevi a essere assimilati, la resistenza è inutile",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
@@ -27,12 +27,10 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [70,0,118],
+		"innerColor": [240,199,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Nikelino","Roma","Paola Taurinorum","Caralis","Abellinum","Pompeii","Herculaneum","Antiochia",
+            "Alexandria","Cesarea","Petra Paola", "Capua","Aquileia"]
 	}
 ]
