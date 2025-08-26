@@ -14,13 +14,13 @@
 		"defeated": "Incredibile: siamo stati sconfitti. Quante generazioni dovranno passare affinchè torni la luce nel mondo?",
 		"introduction": "Oggi il fato vi ha offerto il regalo più grande: potete finalmente unirvi al nostro impero!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Salute viaggiatori, cosa vi porta fin qui?",
+		"neutralLetsHearIt": ["Salute viaggiatori.","Che novità portate?","Siete benvenuti."],
+		"neutralNo": ["Assolutamente no.","No!","Non se ne parla."],
+		"neutralYes": ["Molto bene.","Certamente.","E' un piacere fare affare con voi."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "Cosa vuoi ora?",
+		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
@@ -30,6 +30,8 @@
 		"outerColor": [70,0,118],
 		"innerColor": [240,199,0],
 		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "The Glory of Rome",
+		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital"],
 		"cities": ["Nikelino","Roma","Paola Taurinorum","Caralis","Abellinum","Pompeii","Herculaneum","Antiochia",
             "Alexandria","Cesarea","Petra Paola", "Capua","Aquileia"]
 	},
@@ -47,13 +49,18 @@
 		
 		"declaringWar": "Dai nuraghe si levano fiamme e corni di guerra. Preparati: la Sardegna non piega la testa, mai!",
 		"attacked": "Vuoi giocare? Molto divertente!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "Incredibile: siamo stati sconfitti. Quante generazioni dovranno passare affinchè torni la luce nel mondo?",
+		"introduction": "Oggi il fato vi ha offerto il regalo più grande: potete finalmente unirvi al nostro impero!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Salute viaggiatori, cosa vi porta fin qui?",
+		"neutralLetsHearIt": ["Salute viaggiatori.","Che novità portate?","Siete benvenuti."],
+		"neutralNo": ["Assolutamente no.","No!","Non se ne parla."],
+		"neutralYes": ["Molto bene.","Certamente.","E' un piacere fare affare con voi."],
+
+		"hateHello": "Cosa vuoi ora?",
+		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
@@ -63,24 +70,12 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [70,0,118],
-		"innerColor": [240,199,0],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["Nikelino","Roma","Paola Taurinorum","Caralis","Abellinum","Pompeii","Herculaneum","Antiochia",
-            "Alexandria","Cesarea","Petra Paola", "Capua","Aquileia"]
-		
-		"cityNames": [
-            "Cunnu de Nora",
-            "Barumini",
-            "Nuraghe Arrubiu",
-            "Terraseo",
-            "Samatzai",
-            "Nuraminis",
-            "Monte Prama",
-            "Tiscali"
-        ],
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-        "preferredVictoryType": "Domination"
-    }
-]
+		"outerColor": [217,89,0],
+		"innerColor": [255,255,75],
+		"uniqueName": "Wayfinding",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+1] Sight <for [Embarked] units>",  "[+10]% Strength <within [2] tiles of a [Moai]>"],
+		"cities": ["Cunnu de Nora","Barumini","Nuraghe Arrubiu","Terraseo","Samatzai","Nuraminis","Monte Prama","Tiscali""]
+		}
+		]
