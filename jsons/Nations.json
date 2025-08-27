@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Nikelino",
+		"icon": "Nikelino",
 		"leaderName": "Paolo Magno",
 		"adjective": ["nikelinese"],
 		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
