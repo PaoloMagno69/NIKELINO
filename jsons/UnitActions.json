@@ -1,1 +1,12 @@
-
+{
+    "name": "StartEleonoraRitual",
+    "actionText": "Celebra i Riti di Eleonora Lupa",
+    "requirements": [
+        "Unit is Sacerdotessa Lupa",
+        "City nearby"
+    ],
+    "effects": [
+        "Remove this unit",
+        "ApplyModifierToCity: +[bonus] Happiness for 10 turns"
+    ]
+}
