@@ -1,5 +1,20 @@
 [
 /* Ancient Era */
+	{
+    "name": "Sacerdotessa Lupa",
+    "unitType": "Civilian",
+    "uniqueTo": "Nikelino",
+    "requiredTech": "Pottery",
+    "cost": 100,
+    "purchaseWithGold": true,
+    "actions": ["StartEleonoraRitual"],
+    "uniques": [
+        "Cannot attack",
+        "Cannot be captured",
+        "Only one can exist at a time",
+        "Can only be built in the capital"
+    ]
+    },
     {
 		"name": "Tracio", /* Immagine Brute */
 		"unitType": "Sword",
