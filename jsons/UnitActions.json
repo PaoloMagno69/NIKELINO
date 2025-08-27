@@ -1,14 +1,1 @@
-[
-  {
-    "name": "StartEleonoraRitual",
-    "icon": "EleonoraRitual",  
-    "effect": {
-      "type": "ConsumeUnit",
-      "followUpEffect": {
-        "type": "AddBuildingToCity",
-        "building": "Riti di Eleonora Lupa"
-      }
-    },
-    "description": "Esegue i Riti di Eleonora Lupa nella città, consumando la Sacerdotessa Lupa e aumentando la felicità."
-  }
-]
+
