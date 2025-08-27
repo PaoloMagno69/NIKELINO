@@ -32,7 +32,6 @@
 		"name": "Guerriera amazzone", /* Immagine ADULT */
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
-		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 12,
 		"cost": 30,
@@ -57,7 +56,6 @@
 		"name": "Dacio", /* Immagine Skirmisher */
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
-		"replaces": "Archer",
 		"movement": 2,
 		"strength": 3,
 		"rangedStrength": 7,
@@ -98,7 +96,6 @@
 	{
 		"name": "Guerriero Taurino", /* Immagine Pictish Warrior*/
 		"unitType": "Sword",
-		"replaces": "Spearman",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
 		"strength": 11,
@@ -113,7 +110,6 @@
 	{
 		"name": "Germano", /* Immagine Marauder*/
 		"unitType": "Sword",
-		"replaces": "Spearman",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
 		"strength": 8,
