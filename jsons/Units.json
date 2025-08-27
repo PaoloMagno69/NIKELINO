@@ -1,4 +1,5 @@
 [
+/* Ancient Era */
 	{
 		"name": "Ballista nikelinese",
 		"unitType": "Siege",
@@ -33,7 +34,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Bruto assimilato",
+		"name": "Tracio",
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -42,6 +43,60 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Guerriera amazzone",
+		"unitType": "Sword",
+		"uniqueTo": "Nikelino",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 12,
+		"cost": 30,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Arcere amazzone",
+		"unitType": "Archery",
+		"uniqueTo": "Nikelino",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 7,
+		"cost": 60,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+		{
+		"name": "Dacio",
+		"unitType": "Archery",
+		"uniqueTo": "Nikelino",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 3,
+		"rangedStrength": 7,
+		"cost": 30,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+		{
+		"name": "Unno",
+		"unitType": "Archery",
+		"uniqueTo": "Nikelino",
+		"movement": 4,
+		"strength": 7,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus"],
+		"promotions": ["Accuracy I"],
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Oplite siracusano",
@@ -72,7 +127,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Germanico assimilato",
+		"name": "Germano",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Nikelino",
