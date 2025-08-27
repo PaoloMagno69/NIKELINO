@@ -29,7 +29,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Guerriera amazzone", /* Immagine ADULT */
+		"name": "Guerriera amazzone",
 		 "icon": "Guerriera amazzone",
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
