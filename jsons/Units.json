@@ -1,22 +1,23 @@
 [
-/* Ancient Era */
-	 {
+/* All Eras */
+     {
     "name": "Sacerdotessa Lupa",
     "unitType": "Civilian",
     "uniqueTo": "Nikelino",
-    "cost": 150,
-    "purchaseWithGold": true,
+    "cost": 300,
+    "movement": 2,
+    "strength": 0,
     "requiredTech": "Pottery",
-    "actions": ["StartEleonoraRitual"],
+    "actions": [],
     "uniques": [
-      "Cannot attack",
-      "Cannot be captured",
-      "Only one can exist at a time",
-      "Can only be built in the capital"
-    ],
-    "description": "Sacerdotessa Lupa: guida spirituale di Nikelino, capace di eseguire i Riti di Eleonora Lupa, che portano felicità alle città."
-    },
-    {
+      "Unbuildable by other Civilizations",
+      "Only buildable in capital",
+      "When this unit is present, player gains +1 [Happiness] per turn",
+      "Can be captured (like a Settler)"
+       ]
+       },
+/* Ancient Era */
+	    {
 		"name": "Tracio", /* Immagine Brute */
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
