@@ -1,7 +1,7 @@
 [
 /* Ancient Era */
 	{
-		"name": "Ballista nikelinese",
+		"name": "Ballista nikelinese", /* Immagine Ballista */
 		"unitType": "Siege",
 		"replaces": "Catapult",
 		"uniqueTo": "Nikelino",
@@ -18,7 +18,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Legionario di Paolo",
+		"name": "Legionario di Paolo", /* Immagine Legion */
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"replaces": "Swordsman",
@@ -34,7 +34,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Tracio",
+		"name": "Tracio", /* Immagine Brute */
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -45,7 +45,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Guerriera amazzone",
+		"name": "Guerriera amazzone", /* Immagine ADULT */
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"replaces": "Warrior",
@@ -57,7 +57,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Arcere amazzone",
+		"name": "Arcere amazzone", /* Immagine ADULT */
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -70,7 +70,7 @@
 		"attackSound": "arrow"
 	},
 		{
-		"name": "Dacio",
+		"name": "Dacio", /* Immagine Skirmisher */
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"replaces": "Archer",
@@ -84,7 +84,7 @@
 		"attackSound": "arrow"
 	},
 		{
-		"name": "Unno",
+		"name": "Unno", /* Immagine Horse Archer */
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 4,
