@@ -1,15 +1,13 @@
 [
 	{
     "name": "Riti di Eleonora Lupa",
-    "uniqueTo": "Nikelino",
     "cost": 0,
     "hurryCostModifier": 0,
-    "requiredTech": null,
     "uniques": [
-      "Provides +5 [Happiness] in this city",
+      "Provides +5 Happiness in this city",
       "Removed after 10 turns"
     ],
-    "description": "Un rituale che dona prosperità: +3 felicità per 10 turni."
+    "description": "Un rituale che dona prosperità: +5 felicità per 10 turni."
     }, 
 	{
 		"name": "Tempio di Eleonora",
