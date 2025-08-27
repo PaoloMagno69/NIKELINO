@@ -1,4 +1,5 @@
-{
+[
+    {
     "name": "StartEleonoraRitual",
     "actionText": "Celebra i Riti di Eleonora Lupa",
     "requirements": [
@@ -10,3 +11,4 @@
         "ApplyModifierToCity: +[bonus] Happiness for 10 turns"
     ]
 }
+]
