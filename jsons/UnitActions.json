@@ -1,14 +1,14 @@
 [
-    {
+  {
     "name": "StartEleonoraRitual",
-    "actionText": "Celebra i Riti di Eleonora Lupa",
-    "requirements": [
-        "Unit is Sacerdotessa Lupa",
-        "City nearby"
-    ],
-    "effects": [
-        "Remove this unit",
-        "ApplyModifierToCity: +[bonus] Happiness for 10 turns"
-    ]
-}
+    "icon": "EleonoraRitual",  
+    "effect": {
+      "type": "ConsumeUnit",
+      "followUpEffect": {
+        "type": "AddBuildingToCity",
+        "building": "Riti di Eleonora Lupa"
+      }
+    },
+    "description": "Esegue i Riti di Eleonora Lupa nella città, consumando la Sacerdotessa Lupa e aumentando la felicità."
+  }
 ]
