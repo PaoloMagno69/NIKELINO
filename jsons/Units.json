@@ -12,7 +12,7 @@
     "uniques": [
       "Unbuildable by other Civilizations",
       "Only buildable in capital",
-      "When this unit is present, player gains +1 [Happiness] per turn",
+      "When this unit is present, player gains +1 Happiness per turn",
       "Can be captured (like a Settler)"
        ]
        },
