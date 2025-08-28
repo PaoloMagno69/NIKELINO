@@ -1,96 +1,103 @@
 game.png
-size: 420, 420
+size: 732, 212
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Nikelino
-  rotate: false
-  xy: 0, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
 UnitIcons/Amazzone a cavallo
   rotate: false
-  xy: 256, 0
-  size: 256, 256
-  orig: 256, 256
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Arcere amazzone
   rotate: false
-  xy: 512, 0
-  size: 256, 256
-  orig: 256, 256
+  xy: 108, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ballista nikelinese
   rotate: false
-  xy: 768, 0
-  size: 256, 256
-  orig: 256, 256
+  xy: 212, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dacio
   rotate: false
-  xy: 0, 256
-  size: 256, 256
-  orig: 256, 256
+  xy: 316, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elefante africano
   rotate: false
-  xy: 256, 256
-  size: 256, 256
-  orig: 256, 256
+  xy: 420, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Germano
   rotate: false
-  xy: 512, 256
-  size: 256, 256
-  orig: 256, 256
+  xy: 524, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Guerriera amazzone
   rotate: false
-  xy: 768, 256
-  size: 256, 256
-  orig: 256, 256
+  xy: 628, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Guerriero Taurino
   rotate: false
-  xy: 0, 512
-  size: 256, 256
-  orig: 256, 256
+  xy: 4, 108
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Legionario di Paolo
   rotate: false
-  xy: 256, 512
-  size: 256, 256
-  orig: 256, 256
+  xy: 108, 108
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nikelino
+  rotate: false
+  xy: 212, 108
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Oplite siracusano
   rotate: false
-  xy: 512, 512
-  size: 256, 256
-  orig: 256, 256
+  xy: 316, 108
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sacerdotessa Lupa
   rotate: false
-  xy: 768, 512
-  size: 256, 256
-  orig: 256, 256
+  xy: 420, 108
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tracio
   rotate: false
-  xy: 0, 768
-  size: 256, 256
-  orig: 256, 256
+  xy: 524, 108
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Unno
+  rotate: false
+  xy: 628, 108
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
