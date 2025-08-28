@@ -1,6 +1,5 @@
 [
-/* All Eras */
-     {
+    {
     "name": "Sacerdotessa Lupa",
     "unitType": "Civilian",
     "uniqueTo": "Nikelino",
@@ -16,9 +15,8 @@
       "Can be captured (like a Settler)"
        ]
        },
-/* Ancient Era */
 	    {
-		"name": "Tracio", /* Immagine Brute */
+		"name": "Tracio",
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -41,7 +39,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Arcere amazzone", /* Immagine ADULT */
+		"name": "Arcere amazzone",
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -54,7 +52,7 @@
 		"attackSound": "arrow"
 	},
 		{
-		"name": "Dacio", /* Immagine Skirmisher */
+		"name": "Dacio",
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -67,7 +65,7 @@
 		"attackSound": "arrow"
 	},
 		{
-		"name": "Unno", /* Immagine Horse Archer */
+		"name": "Unno",
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 4,
@@ -82,7 +80,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Oplite siracusano", /* Immagine Hoplite*/
+		"name": "Oplite siracusano",
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -95,7 +93,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Guerriero Taurino", /* Immagine Pictish Warrior*/
+		"name": "Guerriero Taurino",
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -109,7 +107,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Germano", /* Immagine Marauder*/
+		"name": "Germano",
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -122,7 +120,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Lanciere Nubiano", /* Immagine DA FARE*/
+		"name": "Lanciere Nubiano",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 13,
@@ -134,7 +132,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Guerriero sardo", /* Immagine DA FARE*/
+		"name": "Guerriero sardo",
 		"unitType": "Sword",
 		"uniqueTo": "Shardana",
 		"replaces": "Warrior",
@@ -147,7 +145,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Trireme sarda", /* Immagine DA FARE*/
+		"name": "Trireme sarda",
 		"unitType": "Melee Water",
 		"uniqueTo": "Shardana",
 		"replaces": "Trireme",
@@ -161,7 +159,7 @@
 	},
 	/* Classical Era */
 	{
-		"name": "Ballista nikelinese", /* Immagine Ballista */
+		"name": "Ballista nikelinese",
 		"unitType": "Siege",
 		"replaces": "Catapult",
 		"uniqueTo": "Nikelino",
@@ -178,7 +176,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Legionario di Paolo", /* Immagine Legion */
+		"name": "Legionario di Paolo",
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"replaces": "Swordsman",
@@ -194,7 +192,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Amazzone a cavallo", /* Immagine ADULT */
+		"name": "Amazzone a cavallo",
 		"unitType": "Mounted",
 		"movement": 5,
 		"strength": 14,
@@ -208,7 +206,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Elefante africano", /* Immagine African Forest Elephant*/
+		"name": "Elefante africano",
 		"unitType": "Mounted",
 		"uniqueTo": "Nikelino",
 		"movement": 3,
