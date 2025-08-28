@@ -7,7 +7,21 @@ For information on how to build and use mods, please refer to [the setup instruc
 
 
 UNITà
-pital",
+
+[
+/* All Eras */
+     {
+    "name": "Sacerdotessa Lupa",
+    "unitType": "Civilian",
+    "uniqueTo": "Nikelino",
+    "cost": 300,
+    "movement": 2,
+    "strength": 0,
+    "requiredTech": "Pottery",
+    "actions": [],
+    "uniques": [
+      "Unbuildable by other Civilizations",
+      "Only buildable in capital",
       "When this unit is present, player gains +1 Happiness per turn",
       "Can be captured (like a Settler)"
        ]
