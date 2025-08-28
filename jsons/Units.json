@@ -157,7 +157,6 @@
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 	},
-	/* Classical Era */
 	{
 		"name": "Ballista nikelinese",
 		"unitType": "Siege",
